@@ -1,7 +1,5 @@
 # DAA_Labs_27_2023_24
 
-# DAA-Practicals-2023-24
-
 Name : Atharva Mundke |
 PRN : 2254491246027 |
 Roll.No : 27 |
